@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 96668470+sprngbk@users.noreply.github.com
+	name = springbok choy
